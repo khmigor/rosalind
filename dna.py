@@ -1,3 +1,7 @@
+#!/usr/bin/env python
+"""
+Counting DNA Nucleotides
+"""
 
 from collections import Counter
 
